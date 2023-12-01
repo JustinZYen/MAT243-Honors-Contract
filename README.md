@@ -12,6 +12,6 @@ the conjunction of p and q (see Exercises 46 and 47 of
 Section 1.1).
 5. Given positive integers m and n, interactively play the game
 of Chomp.
-∗6. Given a portion of a checkerboard, look for tilings of this
+6. Given a portion of a checkerboard, look for tilings of this
 checkerboard with various types of polyominoes, including
 dominoes, the two types of triominoes, and larger polyominoes.
