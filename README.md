@@ -1,5 +1,5 @@
 # MAT243-Honors-Contract
-Programming problems done for an honors contract for MAT 243 by Igor Fulman
+Programming problems done for an honors contract for MAT 243 with Igor Fulman
 ## Challenge problems in Chapter 1 of Discrete Mathematics and its Applications by Kenneth Rosen
 1. Given the truth values of the propositions p and q, find the
 truth values of the conjunction, disjunction, exclusive or,
